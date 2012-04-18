@@ -1,0 +1,10 @@
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll.config
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.pdb
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.dll
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.pdb
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.dll
+c:\users\prash\documents\visual studio 2010\Work\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.pdb
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\Mvc.Entity.dll
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\MvcApplication2.Tests\bin\Debug\Mvc.Entity.pdb

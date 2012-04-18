@@ -1,0 +1,6 @@
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\bin\Debug\Mvc.Entity.dll.config
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\bin\Debug\Mvc.Entity.dll
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\bin\Debug\Mvc.Entity.pdb
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\obj\Debug\Mvc.Entity.dll
+C:\Users\Prash\Documents\Visual Studio 2010\Work\MvcApplication2\Mvc.Entity\obj\Debug\Mvc.Entity.pdb
